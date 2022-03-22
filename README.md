@@ -9,7 +9,7 @@
 1. [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
 2. [Oakland Crime Statistics 2011 to 2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
 
-### 具体报告
+### 具体报告（对应使用说明在文档内部）
 
 1. [wine-reviews.ipynb](./wine_reviews.ipynb)
 
