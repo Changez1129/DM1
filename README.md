@@ -11,14 +11,14 @@
 
 ### 具体报告
 
-1. [wine-reviews.ipynb](wine-reviews.ipynb)
+1. [wine-reviews.ipynb](./wine_reviews.ipynb)
 
-   [wine-reviews.html](wine-reviews.html)
+   [wine-reviews.html](./wine_reviews.html)
   
-   [wine-reviews.pdf](wine-reviews.pdf)
+   [wine-reviews.pdf](./wine_reviews.pdf)
 
-2. [oakland-crime-statistics-2011-to-2016.ipynb](oakland.ipynb)
+2. [oakland-crime-statistics-2011-to-2016.ipynb](./oakland.ipynb)
    
-   [oakland-crime-statistics-2011-to-2016.html](oakland.html)
+   [oakland-crime-statistics-2011-to-2016.html](./oakland.html)
    
-   [oakland-crime-statistics-2011-to-2016.pdf](oakland.pdf)
+   [oakland-crime-statistics-2011-to-2016.pdf](./oakland.pdf)
